@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: ProductManagement
+server:
+  port: 9080
