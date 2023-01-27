@@ -1,6 +1,6 @@
 spring:
   application:
-    name: ProductManagement
+    name: productManagement
   config:
     import: optional:configserver:http://localhost:9050
   profiles:
